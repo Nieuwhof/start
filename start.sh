@@ -4,7 +4,7 @@
 # Setting up Server #
 #####################
 
-apt install -y ansible &&
+apt install -y sshpass ansible &&
 git clone https://github.com/Nieuwhof/ansible.git && 
 git clone https://github.com/Nieuwhof/multipass.git &&
 cd ~/ansible && 
