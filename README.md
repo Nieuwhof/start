@@ -15,7 +15,7 @@
   These VPS system will be UBUNTU based. Please follow multipass documentation for more information.
   Docker images can be installed by accessing Portainer at http://x.x.x.x:9443 - please configure your password.
 
-  Add the string below to add template with loads of prconfigured applications under the settings option.
+  Add the string below to add template containing loads of preconfigured applications for Docker under the settings option in Portainer.
   
  <b>Portainer templates:</b>
   https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/template.json
