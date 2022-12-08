@@ -17,7 +17,8 @@
   These VPS systems will be UBUNTU based by default. 
   
 Please follow multipass documentation for more information.
-  Docker images can be installed by accessing Portainer at http://x.x.x.x:9443 - please configure your password.
+  
+Docker images can be installed by accessing Portainer at http://x.x.x.x:9443 - It is Very important to immediately change your Portainer username and password.
 
   Add the string below to add template containing loads of preconfigured applications for Docker under the settings option in Portainer.
   
