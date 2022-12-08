@@ -8,11 +8,11 @@
       * This will delete, purge and remove image name from /etc/hosts file on host wallace
    * Full Multipasss configuration - cloud-init - can be modified to your liking - Cloud.yaml
     
-# What you can do !
+# What you can do! Alot with one line - All you need is Dedicated server, VDS or Home Virtualbox or similiar.
   You will now be able to access two premade VPS created machines using ssh gromit or ssh preston.
   If you need you can create/delete your own VPS machines become <b>su ops</b> and change to <b>~/ops/cloud</b> where you will find 
   build.sh and delete-image.sh as explained above. You can update Cloud.yaml to your liking.
-  These VPS system will be UBUNTU based. Please follow multipass documentation for more information.
+  These VPS systems will be UBUNTU based. Please follow multipass documentation for more information.
   Docker images can be installed by accessing Portainer at http://x.x.x.x:9443 - please configure your password.
 
   Add the string below to add template containing loads of preconfigured applications for Docker under the settings option in Portainer.
