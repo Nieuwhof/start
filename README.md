@@ -1,5 +1,5 @@
 # Starting up a virtual environment - Docker & Multipass
- * Extra user account <b>OPS</b> with sudo rights and NOPASSWD: set
+ * Extra user account <b>OPS</b> with sudo rights and NOPASSWD: set on newly configured host machine wallace.
  * Docker installed with portainer port 9443 and VSCode server port 8043
  * Multipass installed with full automated scripts in /home/ops/cloud:
    * /home/ops/cloud/build.sh <name> <optional: image or qcow2 image> <optional: -c 1 -m 10G -d 10G>
