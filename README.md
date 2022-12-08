@@ -10,6 +10,7 @@
     
 # Alot with one line 
   <b>All you need is Dedicated Server, VDS, Virtualbox or similiar.</b>
+
   You will now be able to access two premade VPS created machines using ssh gromit or ssh preston.
   If you need you can create/delete your own VPS machines become <b>su ops</b> and change to <b>~/ops/cloud</b> where you will find 
   build.sh and delete-build.sh as explained above. You can update Cloud.yaml to your liking.
