@@ -16,9 +16,9 @@
   Docker images can be installed by accessing Portainer at http://<yourip>:9443 - please configure your password.
   Add the string below to add template with loads of prconfigured applications under the settings option.
   
-  <b>Portainer templates:</b>
+ <b>Portainer templates:</b>
+  https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/template.json
   
-  
-    
-apt install git && git clone https://github.com/Nieuwhof/start.git && chmod +x start/start.sh && start/start.sh
+ <b>String to start amazing virtual machine installation:</b>    
+ apt install git && git clone https://github.com/Nieuwhof/start.git && chmod +x start/start.sh && start/start.sh
 
