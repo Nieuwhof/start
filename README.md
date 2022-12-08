@@ -20,7 +20,7 @@ Please follow multipass documentation for more information.
   
 Docker images can be installed by accessing Portainer at http://x.x.x.x:9443 - It is very <b>IMPORTANT</b> to immediately change your Portainer username and password.
 
-  Add the string below to add template containing loads of preconfigured applications for Docker under the settings option in Portainer.
+  Add the string below to add an template containing loads of preconfigured applications for Docker. Template can be changed under the settings option in Portainer.
   
  <b>Portainer templates:</b>
   https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/template.json
