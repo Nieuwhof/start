@@ -9,7 +9,7 @@
    * Full Multipasss configuration - cloud-init - can be modified to your liking - Cloud.yaml
     
 # What you can do! Alot with one line 
-# All you need is Dedicated Server, VDS, Virtualbox or similiar.
+ All you need is Dedicated Server, VDS, Virtualbox or similiar.
   You will now be able to access two premade VPS created machines using ssh gromit or ssh preston.
   If you need you can create/delete your own VPS machines become <b>su ops</b> and change to <b>~/ops/cloud</b> where you will find 
   build.sh and delete-build.sh as explained above. You can update Cloud.yaml to your liking.
