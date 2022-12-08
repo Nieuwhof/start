@@ -17,7 +17,6 @@
   Add the string below to add template with loads of prconfigured applications under the settings option.
   
  <b>Portainer templates:</b>
-
   https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/template.json
   
  <b>String to start amazing virtual machine installation:</b>    
