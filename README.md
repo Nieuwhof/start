@@ -3,7 +3,7 @@
  * Docker installed with portainer port 9443 and VSCode server port 8043
  * Multipass installed with full automated scripts in /home/ops/cloud:
    * /home/ops/cloud/build.sh <name> <optional: image or qcow2 image> <optional: -c 1 -m 10G -d 10G>
-      * Image will be named installed with <b>ops</b>, <b>root</b> ssh-key and NOPASSWD: set and /mnt mounted akka shared to host wallace /mnt
+      * Image will be named installed with <b>ops</b>, <b>root</b> ssh-key, NOPASSWD: set, /etc/hosts updated and /mnt mounted akka shared to host wallace /mnt
    * /home/ops.cloud/delete-build.sh <name>
       * This will delete, purge and remove image name from /etc/hosts file on host wallace
    * Full Multipasss configuration - cloud-init - can be modified to your liking - Cloud.yaml
@@ -11,7 +11,7 @@
 # Alot! using one line .....
   <b>All you need is Dedicated Server, VDS, Virtualbox or similiar.</b>
 
-  You will now be able to access two premade VPS created machines using ssh gromit or ssh preston.
+  You will now be able to access two premade VPS created machines by typin ssh ops@gromit or ssh ops@preston at the promt.
   If you need you can create/delete your own VPS machines become <b>su ops</b> and change to <b>~/ops/cloud</b> where you will find 
   build.sh and delete-build.sh as explained above. You can update Cloud.yaml to your liking.
   These VPS systems will be UBUNTU based. Please follow multipass documentation for more information.
