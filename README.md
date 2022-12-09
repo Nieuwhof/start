@@ -28,3 +28,5 @@ Docker images can be installed by accessing Portainer at http://x.x.x.x:9443 - I
  <b>String to start amazing virtual machine installation:</b>    
  apt install git && git clone https://github.com/Nieuwhof/start.git && chmod +x start/start.sh && start/start.sh
 
+# Don't forget to modify your ansible/inventory/hosts file with your created containers/VPS's name and IP hosts address.
+
