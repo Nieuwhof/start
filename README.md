@@ -8,7 +8,7 @@
       * This will delete, purge and remove image name from /etc/hosts file on host wallace
    * Full Multipasss configuration - cloud-init - can be modified to your liking - Cloud.yaml
     
-# Alot! using one line .....
+# Alot for using one line .....
   <b>All you need is Dedicated Server, VDS, Virtualbox or similiar.</b>
 
   You will now be able to access two premade VPS created machines by typin ssh ops@gromit or ssh ops@preston at the promt.
