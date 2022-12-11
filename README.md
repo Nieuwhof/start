@@ -30,3 +30,9 @@ Docker images can be installed by accessing Portainer at http://x.x.x.x:9443 - I
 
   # Modify your ansible/inventory/hosts file with host and IP address.
 
+<b>How to use:</b>
+Usage directory : User ops -/home/ops/cloud/
+* sudo ./build.sh imagename
+* sudo ./build.sh fedora https://download.fedoraproject.org/pub/fedora/linux/releases/35/Cloud/x86_64/images/Fedora-Cloud-Base-35-1.2.x86_64.qcow2
+* sudo ./build.sh imagename -c 1 -m 2G -d 10G
+
