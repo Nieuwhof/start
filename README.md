@@ -38,3 +38,11 @@ Usage directory : User ops - /home/ops/cloud/
 * sudo ./build.sh imagename -c 1 -m 2G -d 10G
 * sudo ./delete-build.sh imagenme
 * sudo vi cloud.jaml
+
+<b>Image resources:</b>
+
+* https://docs.bigstack.co/docs/downloads/cloud_image/
+* https://download.fedoraproject.org/pub/fedora/linux/releases/35/Cloud/x86_64/images/Fedora-Cloud-Base-35-1.2.x86_64.qcow2
+
+
+
