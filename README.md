@@ -46,13 +46,3 @@ Usage directory : User ops - /home/ops/cloud/
 
 
 
-[Interface]
-PrivateKey = UKJItj5TeoDrDNyRbP5Fkp3ZIgn+A+XRHuhiYJfBiEA=
-Address = 10.66.66.3/32,fd42:42:42::3/128
-DNS = 1.1.1.1,1.0.0.1
-
-[Peer]
-PublicKey = H1uMx1JVAftsw5+HwO7rTCUz01niq0MvCSbzZ8iHdxM=
-PresharedKey = x91c+g1FZl8n7PAF0s2XNLmSplXQSOLsUGGAzvlwc2c=
-Endpoint = 165.232.71.180:56268
-AllowedIPs = 0.0.0.0/0,::/0
