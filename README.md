@@ -44,15 +44,5 @@ Usage directory : User ops - /home/ops/cloud/
 * https://docs.bigstack.co/docs/downloads/cloud_image/
 * https://download.fedoraproject.org/pub/fedora/linux/releases/35/Cloud/x86_64/images/Fedora-Cloud-Base-35-1.2.x86_64.qcow2
 
+https://raw.githubusercontent.com/Nieuwhof/start/main/VpnSetup.sh
 
-
-[Interface]
-PrivateKey = UKJItj5TeoDrDNyRbP5Fkp3ZIgn+A+XRHuhiYJfBiEA=
-Address = 10.66.66.3/32,fd42:42:42::3/128
-DNS = 1.1.1.1,1.0.0.1
-
-[Peer]
-PublicKey = H1uMx1JVAftsw5+HwO7rTCUz01niq0MvCSbzZ8iHdxM=
-PresharedKey = x91c+g1FZl8n7PAF0s2XNLmSplXQSOLsUGGAzvlwc2c=
-Endpoint = 165.232.71.180:56268
-AllowedIPs = 0.0.0.0/0,::/0
