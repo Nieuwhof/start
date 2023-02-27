@@ -9,7 +9,7 @@ users:
 bootcmd:
     - printf "[Resolve]\nDNS=8.8.8.8" > /etc/systemd/resolved.conf
     - mkdir -p /operations
-    - wget -O /operations/VpsSetup.sh https://raw.githubusercontent.com/Nieuwhof/start/main/VpnSetup.sh
+    - sudo wget -O /operations/VpsSetup.sh https://raw.githubusercontent.com/Nieuwhof/start/main/VpnSetup.sh
     - chmod +x ./operations/VpsSetup.sh
     - [systemctl, restart, systemd-resolved]
 
