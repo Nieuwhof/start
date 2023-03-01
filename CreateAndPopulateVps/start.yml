@@ -11,6 +11,6 @@ bootcmd:
     - mkdir -p /operations
     - chmod 777 /operations
     - wget -O /operations/VpsSetup.sh https://raw.githubusercontent.com/Nieuwhof/start/main/VpnSetup.sh
-    - chmod +x ./operations/VpsSetup.sh
+    - chmod +x /operations/VpsSetup.sh
     - [systemctl, restart, systemd-resolved]
 
